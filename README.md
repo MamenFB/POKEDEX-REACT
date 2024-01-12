@@ -23,4 +23,4 @@ This will launch the application locally at http://localhost:3000/. You can now 
 
 Dependencies
 pokedex-react@0.0.0
-vite@3.2.3
+vite@3.2.3.
