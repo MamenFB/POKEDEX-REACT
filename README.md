@@ -71,6 +71,6 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorar, po
 
 
 ## 🔗 Deploy on Vercel 
-
+https://pokedex-react-isb21ztj1-mamenfbs-projects.vercel.app/
 
 
