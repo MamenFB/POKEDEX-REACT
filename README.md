@@ -13,7 +13,7 @@ Pokedex-React
 ## 💻 Tecnologías 
 🔹HTML 5  
 🔹CSS 3  
-🔹JavaScript
+🔹JavaScript<br>
 🔹TypeScript  
 🔹 Vite
 
