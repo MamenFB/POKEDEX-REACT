@@ -20,7 +20,7 @@ Pokedex-React
 
 ## 🔥 Dependencias
 pokedex-react@0.0.0
-vite@3.2.3.
+vite@3.2.3
 
 
 <br><br>
