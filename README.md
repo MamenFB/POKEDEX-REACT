@@ -1,26 +1,75 @@
+## 🎯 Mi objetivo 
+
 Pokedex-React
-Welcome to Pokedex-React! This project is a simple React application that leverages the power of Vite to provide a fast and efficient development environment.
+¡Bienvenido a Pokedex-React! Este proyecto es una sencilla aplicación de React que aprovecha el poder de Vite para proporcionar un entorno de desarrollo rápido y eficiente.
 
-Getting Started
-To get started with the development environment, follow the instructions below:
 
-Prerequisites
-Make sure you have Node.js installed on your machine.
 
-Installation
 
-Install the project dependencies:
-bash
-Copy code
-npm install
-Development
-Run the following command to start the development server:
+<br><br><br>
 
-bash
-Copy code
-npm run dev
-This will launch the application locally at http://localhost:3000/. You can now begin developing and see your changes in real-time.
 
-Dependencies
+## 💻 Tecnologías 
+🔹HTML 5  
+🔹CSS 3  
+🔹JavaScript
+
+## 🔥 Herramientas
+🔹Git / GitHub  
+🔹Visual Studio Code  
+
+## 🔥 Dependencias
 pokedex-react@0.0.0
 vite@3.2.3.
+
+
+<br><br>
+
+
+## 🚀 Para ejecutar: 
+
+Instalación
+
+Instala las dependencias del proyecto:
+bash
+Copiar código
+npm install
+Desarrollo
+Ejecuta el siguiente comando para iniciar el servidor de desarrollo:
+
+bash
+Copiar código
+npm run dev
+Esto lanzará la aplicación localmente en http://localhost:3000/
+
+
+<br><br>
+
+
+
+
+## 🪢 Branches 
+
+| BRANCH   | Descripción                                                                      |
+| -------- | ------------------------------------------------------------------------------------- |
+| main     | Rama principal. Aquí solo aparecerán las versiones finales y funcionales de las historias de usuario|
+
+<br><br>
+
+
+
+
+
+## 🤝 Contributions 
+
+Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorar, por favor, este es el momento.
+<br>
+
+
+
+
+
+## 🔗 Deploy on Vercel 
+
+
+
