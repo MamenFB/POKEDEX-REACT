@@ -2,6 +2,7 @@
 
 Pokedex-React
 ¡Bienvenido a Pokedex-React! Este proyecto es una sencilla aplicación de React que aprovecha el poder de Vite para proporcionar un entorno de desarrollo rápido y eficiente.
+![image](https://github.com/MamenFB/POKEDEX-REACT/assets/106315129/c70da796-d10f-4f06-a77e-d88ae5bb7041)
 
 
 
