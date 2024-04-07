@@ -14,6 +14,8 @@ Pokedex-React
 🔹HTML 5  
 🔹CSS 3  
 🔹JavaScript
+🔹TypeScript para React  
+🔹 Vite
 
 ## 🔥 Herramientas
 🔹Git / GitHub  
